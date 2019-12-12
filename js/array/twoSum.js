@@ -28,6 +28,5 @@ var twoSum = function(nums, target) {
         }
         map[num] = i;
     }
-
 }
 

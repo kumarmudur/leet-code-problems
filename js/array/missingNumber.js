@@ -11,4 +11,4 @@ var missingNumber = function(nums) {
     return total;
 };
 
-console.log(missingNumber([3, 0, 1]));
+console.log(missingNumber([3, 0, 5, 1]));
